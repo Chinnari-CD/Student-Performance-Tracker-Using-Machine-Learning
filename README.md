@@ -5,10 +5,15 @@
 ### Submitted By
 
 **Name:** Yelugubandi Chinnari
+
 **Intern ID:** CITS970
+
 **College:** Aditya University
+
 **Branch:** Master of Computer Applications (MCA)
+
 **Internship Organization:** CODTECH IT SOLUTIONS
+
 **Duration:** 6 Weeks
 
 
